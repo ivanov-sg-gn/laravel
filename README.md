@@ -1,2 +1,2 @@
-# laravel
-my test laravel project
+# Laravel
+My test laravel project
